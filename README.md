@@ -2,4 +2,4 @@
 learning to use Git
 
 My favorite sport is hockey.
-My favorite player is JT.
+My favorite player is from Canada.
